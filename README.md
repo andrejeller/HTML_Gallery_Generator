@@ -1,1 +1,0 @@
-# HTML_Gallery_Generator
