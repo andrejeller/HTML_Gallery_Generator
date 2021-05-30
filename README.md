@@ -27,3 +27,8 @@ https://tutorialzine.com/2017/02/freebie-4-bootstrap-galleries
 
 ### See the HTML_Gallery_Generator Result:
 http://www.andrejeller.com/HTML_Gallery_Generator/
+
+
+## Version Info:
+[v0.1] - The first code. A C++ prototype.
+[v0.2] - Now the code was remade and has input checks. Something like a python alfa.
